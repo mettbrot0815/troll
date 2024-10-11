@@ -1,0 +1,21 @@
+{
+    "tools": [
+      {
+        "name": "SpotC++",
+        "version": "1.0",
+        "download_url": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.0/SpotC++.ipa",
+        "changelog": "Initial release of SpotC++.",
+        "min_ios_version": "14.0",
+        "max_ios_version": "15.5"
+      },
+      {
+        "name": "BHTwitter",
+        "version": "2.1",
+        "download_url": "https://github.com/BandarHL/BHTwitter/releases/download/v2.1/BHTwitter.ipa",
+        "changelog": "Fixed bugs and improved performance for iOS 15.",
+        "min_ios_version": "14.0",
+        "max_ios_version": "15.5"
+      }
+    ]
+  }
+  
